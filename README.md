@@ -1,4 +1,4 @@
-# hk2
+# homework2
 
 create database order_biandang_system;
 
